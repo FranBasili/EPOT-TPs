@@ -1,0 +1,15 @@
+Mediciones:
+	- Tensión y Corriente de entrada de la Boost				OK
+	- Corriente en el inductor
+	- Duty en CCM y DCM
+	- Tensión colector? No será Drain?
+	- Vout + ripple								OK
+	- Eficiencia: Potencia de entrada vs Potencia de salida			OK
+	- Generador vs Gate							OK
+	- Curvas MOS + Tiempos
+
+Aclaración: poner la tensión del Gate para las diferentes curvas 
+
+Que pasa si se deja el circ sin carga?
+Los tiempos de conmutación son acordes a los calculados y/o simulados?
+Repetir para diferentes cargas
